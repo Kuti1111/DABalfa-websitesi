@@ -7,3 +7,7 @@ div{
     background-attachment: fixed;
     border: 1px solid;
 }
+
+body {
+    background: linear-gradient(to right, #87CEEB, #00FF7F);
+}
